@@ -1,5 +1,5 @@
-# WebGL
+WebGL Labs
 
-Project that accompanies VGGI credit module.
+PA1 23 Variant Serhieiev Danylo TR-21mp
 
-Visit vggi-kpi.blogspot.com for more information
+Surface of Conjugation of Coaxial Cylinder and Cone
